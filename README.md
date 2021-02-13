@@ -1,8 +1,18 @@
-# Sihan Wu Lab
+# Sihan Wu Laboratory
 ### Children's Medical Center Research Institute at UT Southwestern
 
 # Research
 
+One of the most common genetic alterations causing cancer is oncogene amplification. Instead of 2 copies, a cancer cell might have 10, 20, 30, or even more copies of an oncogene, promoting unrestrained proliferation. The development of high-throughput sequencing and the human genome map have been critical tools to understand the genetic changes that occur in cancer cells. However, many amplified oncogenes are not physically located where the genomic maps indicate. Instead, they are frequently amplified on **extrachromosomal DNA (ecDNA)** particles.
+
+
+ecDNA was first described in cancer in 1965, but it was thought to only occur in 1.4% of cancers. Recent studies, including our research into the ecDNA landscape of clinical tumor samples, have revealed a surprisingly high prevalence of ecDNA in some human cancers, especially in aggressive cancers like those of the brain, lung, and breast. Accumulating evidence suggests that ecDNA is driving malignant behaviors in cancer cells, such as drug resistance.
+
+
+Given the prevalence of ecDNA in cancer, we sought to interrogate the most fundamental question: what is the structure of ecDNA and its impact on gene regulation? By integrating a series of sequencing, imaging, and computational approaches, we have proven that ecDNA is circular with higher transcriptional activity due to its de-compacted chromatin and rewired cis-chromatin interactions, providing new insight into how circular ecDNA structure impacts oncogene function, bridging ecDNA biology with modern cancer genetics and epigenetics.
+
+
+**The long-term goal of our lab is to understand the molecular basis supporting ecDNA functions in cancer.** Let’s begin with revisiting one of the most fundamental knowledge in biology, the Central Dogma, which depicts the flow of genetic information, and place ecDNA into the picture. Then we can begin to ask: How does ecDNA replicate? How does ecDNA transcribe? How is the epigenetic landscape of ecDNA altered to enable higher transcriptional activity? By understanding these mechanisms, we will be able to develop specific therapeutic strategies to eliminate ecDNA and target oncogenes that are otherwise undruggable, such as *MYC*.
 
 
 
