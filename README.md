@@ -1,3 +1,4 @@
+![Banner](./img/banner_long.jpg)
 # Sihan Wu Laboratory
 ### Children's Medical Center Research Institute at UT Southwestern
 
