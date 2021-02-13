@@ -49,7 +49,7 @@ Postdoctoral scientist in the lab will conduct cutting-edge research in a protec
 Qualifications for these positions include Ph.D., M.D., or M.D., Ph.D. degree(s) (or anticipate receiving their degree in the near future) with less than 2 years of postdoctoral experience. Candidates with relevant training involving DNA and chromatin biology, genetics, genomics, epigenetics, signal transduction, cancer metabolism, and bioinformatics, especially with both wet-lab and dry-lab experience, are particularly encouraged to apply. 
 
 
-Interested applicants should submit the following documents assembled into one PDF file to seanwu@outlook.com (entitled with "Postdoc_application_Your_Name" for auto-archiving)
+Interested applicants should submit the following documents **assembled into one PDF file** to ``seanwu@outlook.com`` (entitled with ***"Postdoc_application_Your_Name"*** for auto-archiving)
 
 
 1. A Cover Letter describing your interest in this position.
