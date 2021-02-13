@@ -1,5 +1,5 @@
 # Sihan Wu Lab
-**Children's Medical Center Research Institute at UT Southwestern**
+### Children's Medical Center Research Institute at UT Southwestern
 
 # Research
 
@@ -16,7 +16,7 @@
 
 # Team
 Sihan Wu, Ph.D.
-- Principal investigator
+ - Principal investigator
 
 
 
