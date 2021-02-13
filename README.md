@@ -2,7 +2,7 @@
 # Sihan Wu Laboratory
 ### Children's Medical Center Research Institute at UT Southwestern
 
-# Research
+## Research
 
 One of the most common genetic alterations causing cancer is oncogene amplification. Instead of 2 copies, a cancer cell might have 10, 20, 30, or even more copies of an oncogene, promoting unrestrained proliferation. The development of high-throughput sequencing and the human genome map have been critical tools to understand the genetic changes that occur in cancer cells. However, many amplified oncogenes are not physically located where the genomic maps indicate. Instead, they are frequently amplified on **extrachromosomal DNA (ecDNA)** particles.
 
@@ -17,7 +17,7 @@ Given the prevalence of ecDNA in cancer, we sought to interrogate the most funda
 
 
 
-# Selected publications
+## Selected publications
 1. Wu S, Turner KM, Nguyen N, Raviram R, Erb M, et al. 2019. Circular ecDNA promotes accessible chromatin and high oncogene expression. [Nature. 575(7784):699–703](https://www.nature.com/articles/s41586-019-1763-5)
 2. Kim H, Nguyen N-PP, Turner K, Wu S, Gujar AD, et al. 2020. Extrachromosomal DNA is associated with oncogene amplification and poor outcome across multiple cancers. [Nature Genetics. 52(9):891–97](https://www.nature.com/articles/s41588-020-0678-2)
 3. Wu S, Bafna V, Mischel PS. 2021. Extrachromosomal DNA (ecDNA) in cancer pathogenesis. [Current Opinion in Genetics & Development. 66:78–82](https://www.sciencedirect.com/science/article/abs/pii/S0959437X21000022)
@@ -25,7 +25,7 @@ Given the prevalence of ecDNA in cancer, we sought to interrogate the most funda
 5. Cai J, Liu W, Wong CW, Zhu W, Lin Y, et al. 2020. Zinc-finger antiviral protein acts as a tumor suppressor in colorectal cancer. [Oncogene. 39(37):5995–6008](https://www.nature.com/articles/s41388-020-01416-7)
 6. Hung KL, Yost KE, Xie L, Wu S, Lange JT, et al. 2020. EcDNA hubs drive cooperative intermolecular oncogene expression. [bioRxiv](https://www.biorxiv.org/content/10.1101/2020.11.19.390278v1)
 
-# Team
+## Team
 ### Sihan Wu, Ph.D.
 ##### Principal investigator&nbsp;&nbsp;[ORCID](https://orcid.org/0000-0001-8329-7492), [Google Scholar](https://scholar.google.com/citations?user=O1e4RfAAAAAJ&hl=en), [Twitter](https://twitter.com/SihanSean)
 
@@ -33,13 +33,13 @@ Given the prevalence of ecDNA in cancer, we sought to interrogate the most funda
 I am interested in and have an extensive background in cancer genetics and genomics. After graduating from Sun Yat-sen University (SYSU) majored in Biotechnology, I obtained my Ph.D. training at SYSU,  where I studied genetic alterations in brain tumor development. After receiving my Ph.D., I initiated my postdoctoral research at the University of California, San Diego, under Dr. Paul Mischel's mentorship, and studied the structure and function of ecDNA in cancer, revealing its circular shape and the functional impact of its unique physical conformation. I am currently enthusiastic about studying the molecular basis supporting the ecDNA function and leveraging this knowledge to develop effective approaches to eliminate ecDNA in cancer as novel oncogene targeting strategies. Besides science, I love music, art, and tech gadgets.
 
 
-# Fundings
+## Fundings
 | Title                                                  | Agency                                          | Amount($) | Period    |
 |:-------------------------------------------------------|:------------------------------------------------|----------:|----------:|
 | Recruitment of First-Time Tenure-Track Faculty Members | Cancer Prevention & Research Institute of Texas |        2M | 2021-2026 |
 
 
-# Multiple postdoc positions opening!
+## Multiple postdoc positions opening!
 The Sihan Wu lab, based in Children's Medical Center Research Institute (CRI) at UT Southwestern, is scheduled to open in July 2021, and has multiple postdoctoral positions opening now. We study the molecular basis of extrachromosomal DNA (ecDNA) in human cancer, including its replication, transcription, and repair, and try to develop effective approaches to tackle these mechanisms to eliminate ecDNA in cancer as therapeutic strategies. Applicants who are intellectually curious and interested in science that bridges cancer genetics, genomics, epigenetics, metabolism, and signal transduction, are encouraged to apply.
 
 
