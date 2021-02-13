@@ -15,9 +15,9 @@
 6. Hung KL, Yost KE, Xie L, Wu S, Lange JT, et al. 2020. EcDNA hubs drive cooperative intermolecular oncogene expression. [bioRxiv](https://www.biorxiv.org/content/10.1101/2020.11.19.390278v1)
 
 # Team
-#### Sihan Wu, Ph.D.
+### Sihan Wu, Ph.D.
 Principal investigator
-
+[ORCID](https://orcid.org/0000-0001-8329-7492), [Google Scholar](https://scholar.google.com/citations?user=O1e4RfAAAAAJ&hl=en), [Twitter](https://twitter.com/SihanSean)
 
 
 # Multiple postdoc positions opening!
