@@ -1,7 +1,7 @@
 ![Banner](./img/banner_long.jpg "An abstract art of a multi-color confocal image of cancer metaphase chromosomes with ecDNA particles")
 # Sihan Wu Laboratory
 ### Children's Medical Center Research Institute at UT Southwestern
-##### :pencil2: We are hiring! Please see details below. :pencil2:
+##### [:pencil2: We are hiring! Please see details below. :pencil2:](#Multiple-postdoc-positions-opening)
 
 ## Research
 
