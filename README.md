@@ -7,6 +7,8 @@
 One of the most common genetic alterations causing cancer is oncogene amplification. Instead of 2 copies, a cancer cell might have 10, 20, 30, or even more copies of an oncogene, promoting unrestrained proliferation. The development of high-throughput sequencing and the human genome map have been critical tools to understand the genetic changes that occur in cancer cells. However, many amplified oncogenes are not physically located where the genomic maps indicate. Instead, they are frequently amplified on **extrachromosomal DNA (ecDNA)** particles.
 
 
+![ecDNA_FISH](./img/ecDNA_FISH.jpg "FISH on metaphase chromosome to reveal oncogene amplification as ecDNA particles")
+
 ecDNA was first described in cancer in 1965, but it was thought to only occur in 1.4% of cancers. Recent studies, including our research into the ecDNA landscape of clinical tumor samples, have revealed a surprisingly high prevalence of ecDNA in some human cancers, especially in aggressive cancers like those of the brain, lung, and breast. Accumulating evidence suggests that ecDNA is driving malignant behaviors in cancer cells, such as drug resistance.
 
 
@@ -34,9 +36,9 @@ I am interested in and have an extensive background in cancer genetics and genom
 
 
 ## Fundings
-| Title                                                  | Agency                                          | Amount($) | Period    |
-|:-------------------------------------------------------|:------------------------------------------------|----------:|----------:|
-| Recruitment of First-Time Tenure-Track Faculty Members | Cancer Prevention & Research Institute of Texas |        2M | 2021-2026 |
+| Title                                                  | Agency                                          | Period    |
+|:-------------------------------------------------------|:------------------------------------------------|----------:|
+| Recruitment of First-Time Tenure-Track Faculty Members | Cancer Prevention & Research Institute of Texas | 2021-2026 |
 
 
 ## Multiple postdoc positions opening!
