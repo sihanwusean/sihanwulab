@@ -66,3 +66,4 @@ The recruiment is on a rolling basis until all positions are filled. We evaluate
 
 ![CRI_logo](./img/CRI_logo.png)
 ![UTSW_logo](./img/UTSW_logo.jpg)
+![CPRIT_logo](./img/CPRIT_logo.jpg)
