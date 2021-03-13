@@ -61,7 +61,7 @@ Interested applicants should submit the following documents **assembled into one
 4. One to two Reference Letter(s), including from your current mentor(s).
 
 
-The recruiment is on a rolling basis until all positions are filled. We evaluate every applicant equally. Successful candidates will be invited for a remote interview with the PI.
+The recruitment is on a rolling basis until all positions are filled. We evaluate every applicant equally. Successful candidates will be invited for a remote interview with the PI.
 
 
 ![CRI_logo](./img/CRI_logo.png)
