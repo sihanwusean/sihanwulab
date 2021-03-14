@@ -1,7 +1,7 @@
 ![Banner](./img/banner_long.jpg "An abstract art of a multi-color confocal image of cancer metaphase chromosomes with ecDNA particles")
 # Sihan Wu Laboratory
 ### Children's Medical Center Research Institute at UT Southwestern
-#### [:pencil2: We are hiring! Please see details below. :pencil2:](#Multiple-postdoc-positions-opening)
+### [:pencil2: We are hiring! Please see details below. :pencil2:](#Multiple-postdoc-positions-opening)
 
 ## Research
 
@@ -33,7 +33,7 @@ Given the prevalence of ecDNA in cancer, we sought to interrogate the most funda
 
 ## Team
 ### Sihan Wu, Ph.D.
-##### Principal investigator&nbsp;&nbsp;[ORCID](https://orcid.org/0000-0001-8329-7492), [Google Scholar](https://scholar.google.com/citations?user=O1e4RfAAAAAJ&hl=en), [Twitter](https://twitter.com/SihanSean)
+#### Principal investigator&nbsp;&nbsp;[ORCID](https://orcid.org/0000-0001-8329-7492), [Google Scholar](https://scholar.google.com/citations?user=O1e4RfAAAAAJ&hl=en), [Twitter](https://twitter.com/SihanSean)
 
 
 I am interested in and have an extensive background in cancer genetics and genomics. After graduating from Sun Yat-sen University (SYSU) majored in Biotechnology, I obtained my Ph.D. training at SYSU,  where I studied genetic alterations in brain tumor. I then initiated my postdoctoral research at the University of California, San Diego, under Dr. Paul Mischel's mentorship, and studied the structure and function of ecDNA in cancer, revealing its circular shape and the functional impact of its unique physical conformation. I am currently enthusiastic about studying the molecular basis of ecDNA and leveraging this knowledge to develop effective approaches to eliminate ecDNA in cancer as novel oncogene targeting strategies. 
