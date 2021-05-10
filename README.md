@@ -5,7 +5,7 @@
 
 ## Research
 
-One of the most common genetic alterations causing cancer is oncogene amplification. Instead of 2 copies, a cancer cell might have 10, 20, 30, or even more copies of an oncogene, promoting unrestrained proliferation. The development of high-throughput sequencing and the human genome map have been critical tools to understand the genetic changes that occur in cancer cells. However, many amplified oncogenes are not physically located where the genomic maps indicate. Instead, they are frequently amplified on **extrachromosomal DNA (ecDNA)** particles.
+The 23 pairs of chromosomes are the genetic blueprint of human life, with individual genes and regulatory elements orderly mapped to each chromosome. In cancer, this blueprint is altered. One of the most common genetic alterations causing cancer is oncogene amplification. Instead of 2 copies, a cancer cell might have 10, 20, 30, or even more copies of an oncogene, promoting unrestrained proliferation. The development of high-throughput sequencing and the human genome map have been critical tools to understand the genetic changes that occur in cancer cells. However, many amplified oncogenes are not physically located where the genomic maps indicate. Instead, they are frequently amplified on **extrachromosomal DNA (ecDNA)** particles.
 
 
 ![ecDNA_FISH](./img/ecDNA_FISH.jpg "FISH on metaphase chromosome to reveal oncogene amplification as ecDNA particles")
@@ -16,7 +16,7 @@ ecDNA was first described in cancer in 1965, but it was thought to only occur in
 Given the prevalence of ecDNA in cancer, we sought to interrogate the most fundamental question: what is the structure of ecDNA and its impact on gene regulation? By integrating a series of sequencing, imaging, and computational approaches, we have proven that ecDNA is circular with higher transcriptional activity due to its de-compacted chromatin and rewired cis-chromatin interactions, providing new insight into how circular ecDNA structure impacts oncogene function, bridging ecDNA biology with modern cancer genetics and epigenetics.
 
 
-**The long-term goal of our lab is to understand the molecular basis supporting ecDNA functions in cancer.** Let’s begin with revisiting one of the most fundamental knowledge in biology, the Central Dogma, which depicts the flow of genetic information, and place ecDNA into the picture. Then we can begin to ask: How does ecDNA replicate? How does ecDNA transcribe? How is the epigenetic landscape of ecDNA altered to enable higher transcriptional activity? By understanding these mechanisms, we will be able to develop specific therapeutic strategies to eliminate ecDNA and target oncogenes that are otherwise undruggable, such as *MYC*.
+**The long-term goal of our lab is to understand the molecular functions of ecDNA, and the molecular mechanisms maintaining ecDNA in cancer.** Let’s begin with revisiting one of the most fundamental knowledge in biology, the Central Dogma, which depicts the flow of genetic information, and place ecDNA into the picture. Then we can begin to ask: How does ecDNA replicate? How does ecDNA transcribe? How is the epigenetic landscape of ecDNA altered to enable higher transcriptional activity? How does ecDNA impact the transcriptome of cancer? How does ecDNA repair upon damage? By understanding these mechanisms, we will be able to develop specific therapeutic strategies to eliminate ecDNA and target oncogenes that are otherwise undruggable, such as *MYC*.
 
 
 
@@ -36,7 +36,7 @@ Given the prevalence of ecDNA in cancer, we sought to interrogate the most funda
 #### Principal investigator&nbsp;&nbsp;[ORCID](https://orcid.org/0000-0001-8329-7492), [Google Scholar](https://scholar.google.com/citations?user=O1e4RfAAAAAJ&hl=en), [Twitter](https://twitter.com/SihanSean)
 
 
-I am interested in and have an extensive background in cancer genetics and genomics. After graduating from Sun Yat-sen University (SYSU) majored in Biotechnology, I obtained my Ph.D. training at SYSU,  where I studied genetic alterations in brain tumor. I then initiated my postdoctoral research at the University of California, San Diego, under Dr. Paul Mischel's mentorship, and studied the structure and function of ecDNA in cancer, revealing its circular shape and the functional impact of its unique physical conformation. I am currently enthusiastic about studying the molecular basis of ecDNA and leveraging this knowledge to develop effective approaches to eliminate ecDNA in cancer as novel oncogene targeting strategies. 
+I am interested in and have an extensive background in cancer genetics and genomics. After graduating from Sun Yat-sen University (SYSU) majored in Biotechnology, I obtained my Ph.D. training at SYSU,  where I studied genetic alterations in brain tumor. I then initiated my postdoctoral research at the Ludwig Institute for Cancer Research, UC San Diego, and Stanford University, under Dr. Paul Mischel's mentorship, and studied the structure and function of ecDNA in cancer, revealing its circular shape and the functional impact of its unique physical conformation. I am enthusiastic about studying the molecular function and molecular basis of ecDNA, and trying to leverage this knowledge to develop effective approaches to eliminate ecDNA in cancer as novel oncogene targeting strategies. 
 
 
 ## Fundings
@@ -46,7 +46,7 @@ I am interested in and have an extensive background in cancer genetics and genom
 
 
 ## Multiple postdoc positions opening!
-The Sihan Wu lab, based in Children's Medical Center Research Institute (CRI) at UT Southwestern, is scheduled to open in July 2021, and has multiple postdoctoral positions opening now. We study the molecular basis of extrachromosomal DNA (ecDNA) in human cancer, including its replication, transcription, and repair, and try to develop effective approaches to tackle these mechanisms to eliminate ecDNA in cancer as therapeutic strategies. Applicants who are intellectually curious and interested in science that bridges cancer genetics, genomics, epigenetics, metabolism, and signal transduction, are encouraged to apply.
+The Sihan Wu lab, based in Children's Medical Center Research Institute (CRI) at UT Southwestern, is scheduled to open in July 2021, and has multiple postdoctoral positions opening now. We study the molecular function and molecular basis of extrachromosomal DNA (ecDNA) in human cancer, including its replication, transcription, and repair, and try to develop effective approaches to tackle these mechanisms to eliminate ecDNA in cancer as therapeutic strategies. Applicants who are intellectually curious and interested in science that bridges cancer genetics, genomics, epigenetics, metabolism, and signal transduction, are encouraged to apply.
 
 
 Postdoctoral scientist in the lab will conduct cutting-edge research in a protected, interactive, highly collaborative, and well-funded environment, with access to shared facilities including sequencing, bioinformatics, imaging, metabolomics, flow cytometry, molecular pathology, mouse genome engineering, and beyond. Visit our department website through: [https://cri.utsw.edu/](https://cri.utsw.edu/)
@@ -60,8 +60,8 @@ Interested applicants should submit the following documents **assembled into one
 
 1. A Cover Letter describing your interest in this position.
 2. A CV listing your education, training background, publications, and skill set.
-3. A 2-page Research Statement summarizing your current research achievement and future research interest.
-4. One to two Reference Letter(s), including from your current mentor(s).
+3. One to two Reference Letter(s), including from your current mentor(s).
+4. A 2-page Research Statement summarizing your current research achievement and future research interest. (*Optional item. You can submit it later upon request.)
 
 
 The recruitment is on a rolling basis until all positions are filled. We evaluate every applicant equally. Successful candidates will be invited for a remote interview with the PI.
