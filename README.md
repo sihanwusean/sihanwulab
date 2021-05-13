@@ -32,7 +32,7 @@ Given the prevalence of ecDNA in cancer, we sought to interrogate the most funda
 ![Keyword_cloud](./img/keyword_cloud.jpg)
 
 ## Team
-### Sihan Wu, Ph.D.
+### Sihan Wu 吴思涵, Ph.D.
 #### Assistant Professor, Principal Investigator&nbsp;&nbsp;[ORCID](https://orcid.org/0000-0001-8329-7492), [Google Scholar](https://scholar.google.com/citations?user=O1e4RfAAAAAJ&hl=en), [Twitter](https://twitter.com/SihanSean)
 
 
