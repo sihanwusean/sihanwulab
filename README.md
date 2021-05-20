@@ -39,6 +39,10 @@ Given the prevalence of ecDNA in cancer, we sought to interrogate the most funda
 I am interested in and have an extensive background in cancer genetics and genomics. After graduating from Sun Yat-sen University (SYSU) majored in Biotechnology, I obtained my Ph.D. training at SYSU,  where I studied genetic alterations in brain tumor. I then initiated my postdoctoral research at the Ludwig Institute for Cancer Research, UC San Diego, and Stanford University, under Dr. Paul Mischel's mentorship, and studied the structure and function of ecDNA in cancer, revealing its circular shape and the functional impact of its unique physical conformation. I am enthusiastic about studying the molecular function and molecular basis of ecDNA, and trying to leverage this knowledge to develop effective approaches to eliminate ecDNA in cancer as novel oncogene targeting strategies. 
 
 
+### Collin Gilbreath
+#### Research Assistant II / Lab Manager
+
+
 ## Fundings
 | Title                                                  | Agency                                          | Period    |
 |:-------------------------------------------------------|:------------------------------------------------|----------:|
