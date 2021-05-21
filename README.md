@@ -65,7 +65,7 @@ Interested applicants should submit the following documents **assembled into one
 1. A Cover Letter describing your interest in this position.
 2. A CV listing your education, training background, publications, and skill set.
 3. One to two Reference Letter(s), including from your current mentor(s).
-4. A 2-page Research Statement summarizing your current research achievement and future research interest. (*Optional item. You can submit it later upon request.)
+4. \*A 2-page Research Statement / Proposal summarizing your current research achievement and / or future research interest. (* Optional item. You can submit it later upon request.)
 
 
 The recruitment is on a rolling basis until all positions are filled. We evaluate every applicant equally. Successful candidates will be invited for a remote interview with the PI.
