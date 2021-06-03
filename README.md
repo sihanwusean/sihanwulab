@@ -8,6 +8,8 @@
 
 ### :point_right: https://cri.utsw.edu/scientists/sihan-wu-laboratory/ :point_left:
 
+<br />
+
 ![Wu_lab_website](./img/website_screenshot.jpg)
 
 ## Team
@@ -38,8 +40,12 @@ The Sihan Wu lab, based in Children's Medical Center Research Institute (CRI) at
 
 Postdoctoral scientist in the lab will conduct cutting-edge research in a protected, interactive, highly collaborative, and well-funded environment, with access to shared facilities including sequencing, bioinformatics, imaging, metabolomics, flow cytometry, molecular pathology, mouse genome engineering, and beyond. 
 
+
 Visit our department website through: [https://cri.utsw.edu/](https://cri.utsw.edu/)
+
+
 Funding announcement can be found in the [CPRIT website](https://cprit.texas.gov/news-events/articles/cancer-prevention-research-institute-of-texas-awards-695-million-in-new-grants/)
+
 
 Qualifications for these positions include Ph.D. or M.D. degree(s) (or anticipate receiving their degree in the near future) with less than 2 years of postdoctoral experience. Candidates with relevant training involving DNA and chromatin biology, genetics, genomics, epigenetics, signal transduction, cancer metabolism, and bioinformatics, especially with both wet-lab and dry-lab experience, are particularly encouraged to apply. 
 
