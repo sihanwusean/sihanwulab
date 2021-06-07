@@ -23,6 +23,8 @@ I am interested in and have an extensive background in cancer genetics and genom
 ### Collin Gilbreath
 #### Research Assistant II / Lab Manager
 
+Collin received his bachelor's degree in Biology from the University of Texas at Dallas. Before joining CRI, he worked as a research technician for three years in Dr. Ganesh Raj’s lab at UT Southwestern studying the DNA damage repair pathway in prostate cancer and its therapeutic targets. At CRI, he is research assistant and lab manager for the Wu lab. Outside of work, he enjoys going to concerts, traveling, and trying different restaurants.
+
 <br />
 <br />
 
