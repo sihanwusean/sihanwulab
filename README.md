@@ -20,16 +20,18 @@
 I am interested in and have an extensive background in cancer genetics and genomics. After graduating from Sun Yat-sen University (SYSU) majored in Biotechnology, I obtained my Ph.D. training at SYSU,  where I studied genetic alterations in brain tumor. I then initiated my postdoctoral research at the Ludwig Institute for Cancer Research, UC San Diego, and Stanford University, under Dr. Paul Mischel's mentorship, and studied the structure and function of ecDNA in cancer, revealing its circular shape and the functional impact of its unique physical conformation. In 2021, I was awarded by the Cancer Prevention & Research Institute of Texas and joined the faculty of Children’s Medical Center Research Institute at UT Southwestern as an assistant professor in pediatrics. I am enthusiastic about studying the molecular function and molecular basis of ecDNA, and trying to leverage this knowledge to develop effective approaches to eliminate ecDNA in cancer as novel oncogene targeting strategies. 
 
 
+### Wenyue Liu 刘文跃, Ph.D.
+#### Postdoc&nbsp;&nbsp;[ORCID](https://orcid.org/0000-0003-2197-7788), [Google Scholar](https://scholar.google.com/citations?user=kmOWmtoAAAAJ&hl=en), [LinkedIn](linkedin.com/in/wenyue-liu-a63a75218)
+
+
+Dr. Wenyue Liu obtained his Ph.D. from University of Science and Technology of China (USTC) in 2021, where he focused on studying the molecular mechanisms of microtubule nucleation from non-centrosomal microtubule organizing centers. Fascinated by the amazing role of extrachromosomal DNA (ecDNA) in cancer, Dr. Liu joined the Wu lab as a postdoctoral researcher at UT Southwestern in 2021. Here, he is trying to deepen the understanding of the molecular function and basis of ecDNA in cancer.
+
+
 ### Collin Gilbreath
 #### Research Assistant II / Lab Manager
 
-Collin received his bachelor's degree in Biology from the University of Texas at Dallas. Before joining CRI, he worked as a research technician for three years in Dr. Ganesh Raj’s lab at UT Southwestern studying the DNA damage repair pathway in prostate cancer and its therapeutic targets. At CRI, he is research assistant and lab manager for the Wu lab. Outside of work, he enjoys going to concerts, traveling, and trying different restaurants.
+Collin received his bachelor's degree in Biology from the University of Texas at Dallas. Before joining CRI, he worked as a research technician for three years in Dr. Ganesh Raj’s lab at UT Southwestern studying the DNA damage repair pathway in prostate cancer and its therapeutic targets. At CRI, he is a research assistant and lab manager for the Wu lab. Outside of work, he enjoys going to concerts, traveling, and trying different restaurants.
 
-
-### Wenyue Liu, Ph.D.
-#### Postdoc
-
-(Dr. Wenyue Liu is joining us soon. We will update his info later on.)
 
 <br />
 <br />
