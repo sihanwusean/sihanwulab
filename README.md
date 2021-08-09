@@ -15,6 +15,8 @@
 ## Team
 ### Sihan Wu 吴思涵, Ph.D.
 #### Assistant Professor, CPRIT Scholar, Forbeck Scholar, Principal Investigator&nbsp;&nbsp;[ORCID](https://orcid.org/0000-0001-8329-7492), [Google Scholar](https://scholar.google.com/citations?user=O1e4RfAAAAAJ&hl=en), [Twitter](https://twitter.com/SihanSean)
+##### Department: [Children's Medical Center Research Institute](https://cri.utsw.edu) | Pediatrics
+##### Graduate program: [Cancer Biology](https://www.utsouthwestern.edu/education/graduate-school/programs/cancer-biology/)
 
 
 I am interested in and have an extensive background in cancer genetics and genomics. After graduating from Sun Yat-sen University (SYSU) majored in Biotechnology, I obtained my Ph.D. training at SYSU,  where I studied genetic alterations in brain tumor. I then initiated my postdoctoral research at the Ludwig Institute for Cancer Research, UC San Diego, and Stanford University, under Dr. Paul Mischel's mentorship, and studied the structure and function of ecDNA in cancer, revealing its circular shape and the functional impact of its unique physical conformation. In 2021, I was awarded by the Cancer Prevention & Research Institute of Texas and joined the faculty of Children’s Medical Center Research Institute at UT Southwestern as an assistant professor in pediatrics. I am enthusiastic about studying the molecular function and molecular basis of ecDNA, and trying to leverage this knowledge to develop effective approaches to eliminate ecDNA in cancer as novel oncogene targeting strategies. 
