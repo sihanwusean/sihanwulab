@@ -15,7 +15,7 @@
 ## Team
 ### Sihan Wu 吴思涵, Ph.D.
 #### Assistant Professor, CPRIT Scholar, Forbeck Scholar, Principal Investigator | [ORCID](https://orcid.org/0000-0001-8329-7492), [Google Scholar](https://scholar.google.com/citations?user=O1e4RfAAAAAJ&hl=en), [Twitter](https://twitter.com/SihanSean)
-##### Department: [Children's Medical Center Research Institute](https://cri.utsw.edu) | Pediatrics
+##### Department: [Children's Medical Center Research Institute](https://cri.utsw.edu) | Pediatrics | [Harold C. Simmons Comprehensive Cancer Center](https://www.utsouthwestern.edu/departments/simmons/research/)
 ##### Graduate program: [Cancer Biology](https://www.utsouthwestern.edu/education/graduate-school/programs/cancer-biology/)
 
 
