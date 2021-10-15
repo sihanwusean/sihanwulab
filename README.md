@@ -35,6 +35,10 @@ Dr. Wenyue Liu obtained his Ph.D. from University of Science and Technology of C
 Collin received his bachelor's degree in Biology from the University of Texas at Dallas. Before joining CRI, he worked as a research technician for three years in Dr. Ganesh Raj’s lab at UT Southwestern studying the DNA damage repair pathway in prostate cancer and its therapeutic targets. At CRI, he is a research assistant and lab manager for the Wu lab. Outside of work, he enjoys going to concerts, traveling, and trying different restaurants.
 
 
+### Jun Yi (Stanley) Lim
+#### Rotation Student
+
+
 ## Representative publications
 
 * Circular ecDNA Promotes Accessible Chromatin and High Oncogene Expression. [Nature, 2019.](https://www.nature.com/articles/s41586-019-1763-5)
