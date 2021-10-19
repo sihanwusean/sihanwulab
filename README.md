@@ -10,7 +10,7 @@
 
 <br />
 
-![Wu_lab_website](./img/website_screenshot.jpg)
+[![Wu_lab_website](./img/website_screenshot.jpg)](https://cri.utsw.edu/scientists/sihan-wu-laboratory/)
 
 ## Team
 ### Sihan Wu 吴思涵, Ph.D.
