@@ -50,7 +50,7 @@ Collin received his bachelor's degree in Biology from the University of Texas at
 <br />
 <br />
 
-![Keyword_cloud](./img/keyword_cloud.jpg)
+![Keyword_cloud](./img/keyword_cloud.png)
 
 ## Fundings
 | Title                                                  | Agency                                          | Period    |
