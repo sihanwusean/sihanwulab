@@ -43,7 +43,7 @@ Collin received his bachelor's degree in Biology from the University of Texas at
 
 * Circular ecDNA Promotes Accessible Chromatin and High Oncogene Expression. [Nature, 2019.](https://www.nature.com/articles/s41586-019-1763-5)
 * Extrachromosomal DNA Is Associated with Oncogene Amplification and Poor Outcome across Multiple Cancers. [Nature Genetics, 2020.](https://www.nature.com/articles/s41588-020-0678-2)
-* ecDNA Hubs Drive Cooperative Intermolecular Oncogene Expression. [Nature, 2021 (in press).]
+* ecDNA Hubs Drive Cooperative Intermolecular Oncogene Expression. [Nature, 2021.](https://www.nature.com/articles/s41586-021-04116-8)
 * Extrachromosomal DNA: An Emerging Hallmark in Human Cancer. [Annual Review of Pathology: Mechanisms of Disease, 2022.](https://www.annualreviews.org/doi/10.1146/annurev-pathmechdis-051821-114223)
 
 
