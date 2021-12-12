@@ -12,6 +12,21 @@
 
 [![Wu_lab_website](./img/website_screenshot.jpg)](https://cri.utsw.edu/scientists/sihan-wu-laboratory/)
 
+
+## Representative publications
+
+* Circular ecDNA Promotes Accessible Chromatin and High Oncogene Expression. [Nature, 2019.](https://www.nature.com/articles/s41586-019-1763-5)
+* Extrachromosomal DNA Is Associated with Oncogene Amplification and Poor Outcome across Multiple Cancers. [Nature Genetics, 2020.](https://www.nature.com/articles/s41588-020-0678-2)
+* ecDNA Hubs Drive Cooperative Intermolecular Oncogene Expression. [Nature, 2021.](https://www.nature.com/articles/s41586-021-04116-8)
+* Extrachromosomal DNA: An Emerging Hallmark in Human Cancer. [Annual Review of Pathology: Mechanisms of Disease, 2022.](https://www.annualreviews.org/doi/10.1146/annurev-pathmechdis-051821-114223)
+
+
+<br />
+<br />
+
+![Keyword_cloud](./img/keyword_cloud.png)
+
+
 ## Team
 ### Sihan Wu 吴思涵, Ph.D.
 #### Assistant Professor, CPRIT Scholar, Forbeck Scholar, Principal Investigator | [ORCID](https://orcid.org/0000-0001-8329-7492), [Google Scholar](https://scholar.google.com/citations?user=O1e4RfAAAAAJ&hl=en), [Twitter](https://twitter.com/SihanSean)
@@ -35,22 +50,12 @@ Dr. Wenyue Liu obtained his Ph.D. from University of Science and Technology of C
 Collin received his bachelor's degree in Biology from the University of Texas at Dallas. Before joining CRI, he worked as a research technician for three years in Dr. Ganesh Raj’s lab at UT Southwestern studying the DNA damage repair pathway in prostate cancer and its therapeutic targets. At CRI, he is a research assistant and lab manager for the Wu lab. Outside of work, he enjoys going to concerts, traveling, and trying different restaurants.
 
 
-### Jun Yi (Stanley) Lim
-#### Rotation Student
 
+## Alumni
+| Name                                 | Previous role                 | Current position    |
+|:-------------------------------------|:------------------------------|:--------------------|
+| Jun Yi (Stanley) Lim                 | Rotation student              | Rotation student    |
 
-## Representative publications
-
-* Circular ecDNA Promotes Accessible Chromatin and High Oncogene Expression. [Nature, 2019.](https://www.nature.com/articles/s41586-019-1763-5)
-* Extrachromosomal DNA Is Associated with Oncogene Amplification and Poor Outcome across Multiple Cancers. [Nature Genetics, 2020.](https://www.nature.com/articles/s41588-020-0678-2)
-* ecDNA Hubs Drive Cooperative Intermolecular Oncogene Expression. [Nature, 2021.](https://www.nature.com/articles/s41586-021-04116-8)
-* Extrachromosomal DNA: An Emerging Hallmark in Human Cancer. [Annual Review of Pathology: Mechanisms of Disease, 2022.](https://www.annualreviews.org/doi/10.1146/annurev-pathmechdis-051821-114223)
-
-
-<br />
-<br />
-
-![Keyword_cloud](./img/keyword_cloud.png)
 
 ## Fundings
 | Title                                                  | Agency                                          | Period    |
@@ -66,9 +71,6 @@ Postdoctoral scientist in the lab will conduct cutting-edge research in a protec
 
 
 Visit our department website through: [https://cri.utsw.edu/](https://cri.utsw.edu/)
-
-
-Funding announcement can be found in the [CPRIT website](https://cprit.texas.gov/news-events/articles/cancer-prevention-research-institute-of-texas-awards-695-million-in-new-grants/)
 
 
 Qualifications for these positions include Ph.D. or M.D. degree(s) (or anticipate receiving their degree in the near future) with less than 2 years of postdoctoral experience. Candidates with relevant training involving DNA and chromatin biology, genetics, genomics, epigenetics, signal transduction, cancer metabolism, and bioinformatics, especially with both wet-lab and dry-lab experience, are particularly encouraged to apply. 
