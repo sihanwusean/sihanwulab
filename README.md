@@ -44,6 +44,13 @@ I am interested in and have an extensive background in cancer genetics and genom
 Dr. Wenyue Liu obtained his Ph.D. from University of Science and Technology of China (USTC) in 2021, where he focused on studying the molecular mechanisms of microtubule nucleation from non-centrosomal microtubule organizing centers. Fascinated by the amazing role of extrachromosomal DNA (ecDNA) in cancer, Dr. Liu joined the Wu lab as a postdoctoral researcher at UT Southwestern in 2021. Here, he is trying to deepen the understanding of the molecular function and basis of ecDNA in cancer.
 
 
+### Kailiang Qiao 乔锴亮, Ph.D.
+#### Postdoc
+
+
+Dr. Qiao will join us soon in early 2022. 
+
+
 ### Collin Gilbreath
 #### Research Assistant II / Lab Manager
 
