@@ -72,8 +72,9 @@ Holly will start her rotation in July 2022.
 ## Fundings
 | Title                                                  | Agency                                          | Period    |
 |:-------------------------------------------------------|:------------------------------------------------|----------:|
-| Recruitment of First-Time Tenure-Track Faculty Members | Cancer Prevention & Research Institute of Texas | 2021-2026 |
+| Cancer Grand Challenges                                | National Cancer Institute & Cancer Research UK  | 2022-2027 |
 | Moody Medical Research Institute Innovation Award      | Moody Medical Research Institute                | 2022-2024 |
+| Recruitment of First-Time Tenure-Track Faculty Members | Cancer Prevention & Research Institute of Texas | 2021-2026 |
 
 
 ## One postdoc position opening!
