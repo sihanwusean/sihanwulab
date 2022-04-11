@@ -51,6 +51,13 @@ Dr. Wenyue Liu obtained his Ph.D. from University of Science and Technology of C
 Dr. Qiao will join us soon in early 2022. 
 
 
+### Jun Yi (Stanley) Lim
+#### Grad student | [ORCID](https://orcid.org/0000-0003-4160-7434), [Twitter](https://twitter.com/stanleylim93)
+
+
+Stanley received his bachelor's degree in Life Sciences with a specialization in Molecular and Cell Biology from the National University of Singapore. Before joining CRI, he worked as a research assistant in Dr. David Virshup's lab at Duke-NUS Medical School, focusing on studying Wnt signaling regulated pathways in cancer. At CRI, he is a graduate student in the Wu lab. Outside of work, Stanley enjoys exploring new places and is proficient in the Japanese language.
+
+
 ### Collin Gilbreath
 #### Research Assistant II / Lab Manager
 
@@ -60,7 +67,7 @@ Collin received his bachelor's degree in Biology from the University of Texas at
 ## Alumni
 | Name                                 | Previous role                 | Current position    |
 |:-------------------------------------|:------------------------------|:--------------------|
-| Jun Yi (Stanley) Lim                 | Rotation student              | Rotation student    |
+|                 |              |     |
 
 
 ## Fundings
