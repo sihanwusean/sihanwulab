@@ -48,7 +48,14 @@ Dr. Wenyue Liu obtained his Ph.D. from University of Science and Technology of C
 #### Postdoc | [ORCID](https://orcid.org/0000-0002-6097-0338)
 
 
-Dr. Qiao will join us soon in early 2022. 
+Dr. Qiao will join us soon in 2022. 
+
+
+### Xiaohui Sun, Ph.D.
+#### Postdoc
+
+
+Dr. Sun will join us in late 2022.
 
 
 ### Jun Yi (Stanley) Lim
@@ -69,7 +76,7 @@ Collin received his bachelor's degree in Biology from the University of Texas at
 |:-------------------------------------|:------------------------------|:--------------------|
 |                 |              |     |
 
-
+<!---
 ## Fundings
 | Title                                                  | Agency                                          | Period    |
 |:-------------------------------------------------------|:------------------------------------------------|----------:|
@@ -101,6 +108,7 @@ Interested applicants should submit the following documents **assembled into one
 
 The recruitment is on a rolling basis until all positions are filled. We evaluate every applicant equally. Successful candidates will be invited for a remote interview with the PI.
 
+-->
 
 ![CRI_logo](./img/CRI_logo.png)
 ![UTSW_logo](./img/UTSW_logo.jpg)
