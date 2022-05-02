@@ -1,8 +1,9 @@
 ![Banner](./img/banner_long.jpg "An abstract art of a multi-color confocal image of cancer metaphase chromosomes with ecDNA particles")
 # Sihan Wu Laboratory
 ### Children's Medical Center Research Institute at UT Southwestern
+<!---
 ### [:pencil2: We are hiring! Please see details below. :pencil2:](#Multiple-postdoc-positions-opening)
-
+--->
 
 ### Please visit our lab website here:
 
@@ -70,11 +71,12 @@ Stanley received his bachelor's degree in Life Sciences with a specialization in
 
 Collin received his bachelor's degree in Biology from the University of Texas at Dallas. Before joining CRI, he worked as a research technician for three years in Dr. Ganesh Raj’s lab at UT Southwestern studying the DNA damage repair pathway in prostate cancer and its therapeutic targets. At CRI, he is a research assistant and lab manager for the Wu lab. Outside of work, he enjoys going to concerts, traveling, and trying different restaurants.
 
-
+<!---
 ## Alumni
 | Name                                 | Previous role                 | Current position    |
 |:-------------------------------------|:------------------------------|:--------------------|
 |                 |              |     |
+-->
 
 <!---
 ## Fundings
