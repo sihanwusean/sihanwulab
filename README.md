@@ -78,14 +78,14 @@ Collin received his bachelor's degree in Biology from the University of Texas at
 |                 |              |     |
 -->
 
-<!---
+
 ## Fundings
 | Title                                                  | Agency                                          | Period    |
 |:-------------------------------------------------------|:------------------------------------------------|----------:|
 | Moody Medical Research Institute Innovation Award      | Moody Medical Research Institute                | 2022-2024 |
 | Recruitment of First-Time Tenure-Track Faculty Members | Cancer Prevention & Research Institute of Texas | 2021-2026 |
 
-
+<!---
 ## One postdoc position opening!
 The Sihan Wu lab, based in Children's Medical Center Research Institute (CRI) at UT Southwestern, has one postdoctoral position opening now. We study the molecular function and molecular basis of extrachromosomal DNA (ecDNA) in human cancer, including its replication, transcription, and repair, and try to develop effective approaches to tackle these mechanisms to eliminate ecDNA in cancer as therapeutic strategies. Applicants who are intellectually curious and interested in science that bridges cancer genetics, genomics, epigenetics, metabolism, and signal transduction, are encouraged to apply.
 
