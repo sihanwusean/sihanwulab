@@ -59,7 +59,7 @@ Dr. Qiao will join us soon in 2022.
 Dr. Sun will join us in late 2022.
 
 
-### Jun Yi (Stanley) Lim
+### Jun Yi Stanley Lim
 #### Grad student | [ORCID](https://orcid.org/0000-0003-4160-7434), [Twitter](https://twitter.com/stanleylim93)
 
 
