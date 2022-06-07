@@ -49,7 +49,7 @@ Dr. Wenyue Liu obtained his Ph.D. from University of Science and Technology of C
 #### Postdoc | [ORCID](https://orcid.org/0000-0002-6097-0338)
 
 
-Dr. Qiao will join us soon in 2022. 
+Dr. Kailiang Qiao earned his Ph.D. from Nankai University in 2021, where he focused on studying the molecular mechanisms of cancer progression in hepatocellular carcinoma. During his Ph.D. training, he was very interested in genomics instability and systems biology. Therefore, he joined Wu lab in 2022, where he currently studies ecDNA and the mechanism of genomic instability in cancer.
 
 
 ### Xiaohui Sun, Ph.D.
