@@ -84,6 +84,7 @@ Collin received his bachelor's degree in Biology from the University of Texas at
 |:-------------------------------------------------------|:------------------------------------------------|----------:|
 | Moody Medical Research Institute Innovation Award      | Moody Medical Research Institute                | 2022-2024 |
 | Recruitment of First-Time Tenure-Track Faculty Members | Cancer Prevention & Research Institute of Texas | 2021-2026 |
+| Cancer Grand Challenges                                | Cancer Research UK & National Cancer Institute  | 2022-2027 |
 
 <!---
 ## One postdoc position opening!
