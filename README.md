@@ -1,9 +1,9 @@
 ![Banner](./img/banner_long.jpg "An abstract art of a multi-color confocal image of cancer metaphase chromosomes with ecDNA particles")
 # Sihan Wu Laboratory
 ### Children's Medical Center Research Institute at UT Southwestern
-<!---
-### [:pencil2: We are hiring! Please see details below. :pencil2:](#Multiple-postdoc-positions-opening)
---->
+
+### [:pencil2: We are hiring! Please see details below. :pencil2:](#Postdoc-Positions-in-Cancer-Genetics,-Genomics,-and-Immunology)
+
 
 ### Please visit our lab website here:
 
@@ -86,32 +86,41 @@ Collin received his bachelor's degree in Biology from the University of Texas at
 | Recruitment of First-Time Tenure-Track Faculty Members | Cancer Prevention & Research Institute of Texas | 2021-2026 |
 | Cancer Grand Challenges                                | Cancer Research UK & National Cancer Institute  | 2022-2027 |
 
-<!---
-## One postdoc position opening!
-The Sihan Wu lab, based in Children's Medical Center Research Institute (CRI) at UT Southwestern, has one postdoctoral position opening now. We study the molecular function and molecular basis of extrachromosomal DNA (ecDNA) in human cancer, including its replication, transcription, and repair, and try to develop effective approaches to tackle these mechanisms to eliminate ecDNA in cancer as therapeutic strategies. Applicants who are intellectually curious and interested in science that bridges cancer genetics, genomics, epigenetics, metabolism, and signal transduction, are encouraged to apply.
+
+## Postdoc Positions in Cancer Genetics, Genomics, and Immunology
+
+Postdoctoral positions are available in the laboratories of Drs. Zhijian ‘James’ Chen lab and Sihan Wu at UT Southwestern Medical Center. Postdocs recruited via this pathway will be housed and supported in the Chen lab in the Molecular Biology department, and co-mentored by Dr. Wu at the Children’s Research Institute.
 
 
-Postdoctoral scientist in the lab will conduct cutting-edge research in a protected, interactive, highly collaborative, and well-funded environment, with access to shared facilities including sequencing, bioinformatics, imaging, metabolomics, flow cytometry, molecular pathology, mouse genome engineering, and beyond. 
+The Chen lab studies innate immune sensing and signaling of nucleic acids, focusing on the cGAS-STING pathway of cytosolic DNA sensing. This pathway has been shown to be important for many physiological and pathological processes. The lab is interested in dissecting the signaling mechanisms of the cGAS pathway as well as its role in immune defense against tumor development. 
 
 
-Visit our department website through: [https://cri.utsw.edu/](https://cri.utsw.edu/)
+The Wu lab studies the molecular functions and molecular dependencies of extrachromosomal DNA (ecDNA) in human cancer, including its replication, segregation, transcription, and repair, with an aim to develop effective approaches to tackle these mechanisms to eliminate ecDNA in cancer as therapeutic strategies. 
 
 
-Qualifications for these positions include Ph.D. or M.D. degree(s) (or anticipate receiving their degree in the near future) with less than 2 years of postdoctoral experience. Candidates with relevant training involving DNA and chromatin biology, genetics, genomics, epigenetics, signal transduction, cancer metabolism, and bioinformatics, especially with both wet-lab and dry-lab experience, are particularly encouraged to apply. 
+The Chen and Wu labs have recently received generous support from the Cancer Grand Challenges grant funded by Cancer Research UK and the US National Cancer Institute. The two labs will co-mentor postdocs to study how ecDNA cancers evade the immune system. Applicants who are intellectually curious and interested in science that bridges cancer genetics, genomics, and immunology are encouraged to apply.
 
 
-Interested applicants should submit the following documents **assembled into one PDF file** to ``Sihan.Wu@UTSouthwestern.edu`` (entitled with ***"Postdoc_Application_Your_Name"*** for auto-archiving)
+Postdoctoral scientist in the lab will conduct cutting-edge research in a protected, interactive, highly collaborative, and well-funded environment, with access to shared facilities including sequencing, bioinformatics, imaging, metabolomics, flow cytometry, molecular pathology, and mouse genome engineering.
 
+
+Qualifications for these positions include Ph.D. and/or M.D. degree(s) (or anticipate receiving their degrees in the near future) with less than 2 years of postdoctoral experience. Candidates with relevant training involving DNA and chromatin biology, genetics, genomics, epigenetics, signal transduction, immunology, and bioinformatics, especially with both wet-lab and dry-lab experience, are particularly encouraged to apply.
+
+
+Interested applicants should submit the following documents **assembled into one PDF file** to ``Zhijian.Chen@UTSouthwestern.edu`` and ``Sihan.Wu@UTSouthwestern.edu`` 
 
 1. A Cover Letter describing your interest in this position.
 2. A CV listing your education, training background, publications, and skill set.
-3. One to two Reference Letter(s), including from your current mentor(s).
+3. Two Reference Letters, including from your current mentor(s).
 4. \*A 2-page Research Statement / Proposal summarizing your current research achievement and / or future research interest. (* Optional item. You can submit it later upon request.)
 
 
-The recruitment is on a rolling basis until all positions are filled. We evaluate every applicant equally. Successful candidates will be invited for a remote interview with the PI.
+For more information about our lab, please visit our websites:
+https://www.utsouthwestern.edu/labs/chen-james/
+https://www.james-zhijian-chen-lab.org/
+https://cri.utsw.edu/scientists/sihan-wu-laboratory/
+https://github.com/sihanwusean/sihanwulab
 
--->
 
 ![CRI_logo](./img/CRI_logo.png)
 ![UTSW_logo](./img/UTSW_logo.jpg)
