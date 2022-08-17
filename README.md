@@ -2,7 +2,7 @@
 # Sihan Wu Laboratory
 ### Children's Medical Center Research Institute at UT Southwestern
 
-### [:pencil2: We are hiring! Please see details below. :pencil2:](#Postdoc-Positions-in-Cancer-Genetics,-Genomics,-and-Immunology)
+### [:pencil2: We are hiring! Please see details below. :pencil2:](#Postdoc-Positions-in-Cancer-Genetics-Genomics-and-Immunology)
 
 
 ### Please visit our lab website here:
@@ -109,6 +109,7 @@ Qualifications for these positions include Ph.D. and/or M.D. degree(s) (or antic
 
 Interested applicants should submit the following documents **assembled into one PDF file** to ``Zhijian.Chen@UTSouthwestern.edu`` and ``Sihan.Wu@UTSouthwestern.edu`` 
 
+
 1. A Cover Letter describing your interest in this position.
 2. A CV listing your education, training background, publications, and skill set.
 3. Two Reference Letters, including from your current mentor(s).
@@ -116,9 +117,17 @@ Interested applicants should submit the following documents **assembled into one
 
 
 For more information about our lab, please visit our websites:
+
+
 https://www.utsouthwestern.edu/labs/chen-james/
+
+
 https://www.james-zhijian-chen-lab.org/
+
+
 https://cri.utsw.edu/scientists/sihan-wu-laboratory/
+
+
 https://github.com/sihanwusean/sihanwulab
 
 
