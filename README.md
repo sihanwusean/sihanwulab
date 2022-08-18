@@ -52,11 +52,11 @@ Dr. Wenyue Liu obtained his Ph.D. from University of Science and Technology of C
 Dr. Kailiang Qiao earned his Ph.D. from Nankai University in 2021, where he focused on studying the molecular mechanisms of cancer progression in hepatocellular carcinoma. During his Ph.D. training, he was very interested in genomics instability and systems biology. Therefore, he joined Wu lab in 2022, where he currently studies ecDNA and the mechanism of genomic instability in cancer.
 
 
-### Xiaohui Sun, Ph.D.
+### Xiaohui Sun 孙晓辉, Ph.D.
 #### Postdoc | [ORCID](https://orcid.org/0000-0001-8218-1885)
 
 
-Dr. Sun will join us in late 2022.
+Dr. Xiaohui Sun obtained his Ph.D. from Peking Union Medical College (PUMC) in 2020. Before joining CRI, he focused on studying the mechanisms of DNA damage response and repair. He paid particular attention to DNA double-strand breaks induced by ionizing radiation and studied the relationship between DNA damage response and radiosensitivity. Dr. Sun joined the Wu lab as a postdoctoral researcher at UT Southwestern in 2022. Here, he is trying to understand how extrachromosomal DNA (ecDNA) responses to damage and how this mechanism may be leveraged to treat ecDNA-driven cancers.In his spare time, he likes singing and biking.
 
 
 ### Jun Yi Stanley Lim
