@@ -38,6 +38,13 @@
 I am interested in and have an extensive background in cancer genetics and genomics. After graduating from Sun Yat-sen University (SYSU) majored in Biotechnology, I obtained my Ph.D. training at SYSU,  where I studied genetic alterations in brain tumor. I then initiated my postdoctoral research at the Ludwig Institute for Cancer Research, UC San Diego, and Stanford University, under Dr. Paul Mischel's mentorship, and studied the structure and function of ecDNA in cancer, revealing its circular shape and the functional impact of its unique physical conformation. In 2021, I was awarded by the Cancer Prevention & Research Institute of Texas and joined the faculty of Children’s Medical Center Research Institute at UT Southwestern as an assistant professor in pediatrics. I am enthusiastic about studying the molecular function and molecular basis of ecDNA, and trying to leverage this knowledge to develop effective approaches to eliminate ecDNA in cancer as novel oncogene targeting strategies. 
 
 
+### Jun Yi Stanley Lim
+#### Grad student | [ORCID](https://orcid.org/0000-0003-4160-7434), [Twitter](https://twitter.com/stanleylim93)
+
+
+Stanley received his bachelor's degree in Life Sciences with a specialization in Molecular and Cell Biology from the National University of Singapore. Before joining CRI, he worked as a research assistant in Dr. David Virshup's lab at Duke-NUS Medical School, focusing on studying Wnt signaling regulated pathways in cancer. At CRI, he is a graduate student in the Wu lab. Outside of work, Stanley enjoys exploring new places and is proficient in the Japanese language.
+
+
 ### Wenyue Liu 刘文跃, Ph.D.
 #### Postdoc | [ORCID](https://orcid.org/0000-0003-2197-7788), [Google Scholar](https://scholar.google.com/citations?user=kmOWmtoAAAAJ&hl=en), [LinkedIn](linkedin.com/in/wenyue-liu-a63a75218)
 
@@ -59,11 +66,11 @@ Dr. Kailiang Qiao earned his Ph.D. from Nankai University in 2021, where he focu
 Dr. Xiaohui Sun obtained his Ph.D. from Peking Union Medical College (PUMC) in 2020. Before joining CRI, he focused on studying the mechanisms of DNA damage response and repair. He paid particular attention to DNA double-strand breaks induced by ionizing radiation and studied the relationship between DNA damage response and radiosensitivity. Dr. Sun joined the Wu lab as a postdoctoral researcher at UT Southwestern in 2022. Here, he is trying to understand how extrachromosomal DNA (ecDNA) responses to damage and how this mechanism may be leveraged to treat ecDNA-driven cancers.In his spare time, he likes singing and biking.
 
 
-### Jun Yi Stanley Lim
-#### Grad student | [ORCID](https://orcid.org/0000-0003-4160-7434), [Twitter](https://twitter.com/stanleylim93)
+### Qing-Lin Yang 杨清林, Ph.D.
+#### Postdoc (co-mentored by [Dr. Zhijian 'James' Chen](https://www.james-zhijian-chen-lab.org/)) | [ORCID](https://orcid.org/0000-0001-6532-5699)
 
 
-Stanley received his bachelor's degree in Life Sciences with a specialization in Molecular and Cell Biology from the National University of Singapore. Before joining CRI, he worked as a research assistant in Dr. David Virshup's lab at Duke-NUS Medical School, focusing on studying Wnt signaling regulated pathways in cancer. At CRI, he is a graduate student in the Wu lab. Outside of work, Stanley enjoys exploring new places and is proficient in the Japanese language.
+Dr. Yang will join us in early 2023.
 
 
 ### Collin Gilbreath
