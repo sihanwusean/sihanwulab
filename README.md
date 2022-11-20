@@ -94,6 +94,13 @@ Collin received his bachelor's degree in Biology from the University of Texas at
 | Cancer Grand Challenges                                | Cancer Research UK & National Cancer Institute  | 2022-2027 |
 
 
+## Shared resources
+### [WuLabScripts](https://github.com/sihanwusean/WuLabScripts)
+
+
+A collection of haring bioinformatic scripts developed by Sihan Wu lab.
+
+
 ## Postdoc Positions in Cancer Genetics, Genomics, and Immunology
 
 Postdoctoral positions are available in the laboratories of Drs. Zhijian ‘James’ Chen lab and Sihan Wu at UT Southwestern Medical Center. Postdocs recruited via this pathway will be housed and supported in the Chen lab in the Molecular Biology department, and co-mentored by Dr. Wu at the Children’s Research Institute.
