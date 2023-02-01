@@ -2,8 +2,9 @@
 # Sihan Wu Laboratory
 ### Children's Medical Center Research Institute at UT Southwestern
 
+<!---
 ### [:pencil2: We are hiring! Please see details below. :pencil2:](#Postdoc-Positions-in-Cancer-Genetics-Genomics-and-Immunology)
-
+-->
 
 ### Please visit our lab website here:
 
@@ -100,7 +101,7 @@ Collin received his bachelor's degree in Biology from the University of Texas at
 
 A collection of haring bioinformatic scripts developed by Sihan Wu lab.
 
-
+<!---
 ## Postdoc Positions in Cancer Genetics, Genomics, and Immunology
 
 Postdoctoral positions are available in the laboratories of Drs. Zhijian ‘James’ Chen lab and Sihan Wu at UT Southwestern Medical Center. Postdocs recruited via this pathway will be housed and supported in the Chen lab in the Molecular Biology department, and co-mentored by Dr. Wu at the Children’s Research Institute.
@@ -143,7 +144,7 @@ https://cri.utsw.edu/scientists/sihan-wu-laboratory/
 
 
 https://github.com/sihanwusean/sihanwulab
-
+-->
 
 ![CRI_logo](./img/CRI_logo.png)
 ![UTSW_logo](./img/UTSW_logo.jpg)
