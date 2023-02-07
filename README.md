@@ -71,7 +71,7 @@ Dr. Xiaohui Sun obtained his Ph.D. from Peking Union Medical College (PUMC) in 2
 #### Postdoc (co-mentored by [Dr. Zhijian 'James' Chen](https://www.james-zhijian-chen-lab.org/)) | [ORCID](https://orcid.org/0000-0001-6532-5699)
 
 
-Dr. Yang will join us in early 2023.
+Dr. Qing-Lin Yang obtained his Ph.D. degree from the Center for Excellence in Molecular Cell Science (CEMCS, formerly known as Shanghai Institute of Biochemistry and Cell Biology, SIBCB), Chinese Academy of Sciences, in 2020. During his Ph.D. training, he focused on dissecting the mechanism of DNA demethylation and developing CRISPR-based gene editing tools. In 2023, he joined the Zhijian “James” Chen lab at the Molecular Biology department, co-mentored by Sihan Wu at CRI. Here, he studies the mechanism by which ecDNA-driven cancer evades immune surveillance.
 
 
 ### Collin Gilbreath
