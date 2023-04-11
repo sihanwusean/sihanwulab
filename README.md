@@ -81,7 +81,7 @@ Dr. Qing-Lin Yang obtained his Ph.D. degree from the Center for Excellence in Mo
 
 
 ### Collin Gilbreath
-#### Research Assistant II / Lab Manager
+#### Research Assistant II / Lab Manager | [ORCID](https://orcid.org/0000-0002-8683-983X)
 
 Collin received his bachelor's degree in Biology from the University of Texas at Dallas. Before joining CRI, he worked as a research technician for three years in Dr. Ganesh Raj’s lab at UT Southwestern studying the DNA damage repair pathway in prostate cancer and its therapeutic targets. At CRI, he is a research assistant and lab manager for the Wu lab. Outside of work, he enjoys going to concerts, traveling, and trying different restaurants.
 
