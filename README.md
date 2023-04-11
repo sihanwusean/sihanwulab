@@ -41,7 +41,7 @@ I am interested in and have an extensive background in cancer genetics and genom
 
 
 ### Yoon Jung Kim, Ph.D.
-#### Senior Research Scientist
+#### Senior Research Scientist | [ORCID](https://orcid.org/0000-0002-2942-294X)
 
 
 Dr. Yoon Jung Kim obtained her Ph.D. from Korean Advanced Institute of Science and Technology (KAIST) in 2007, where she developed a pH shock method to enhance the production of antibiotic and anticancer agents by studying gene regulation in <em>Streptomyces sp.</em> She then started her postdoctoral research at the Yale School of Medicine in 2008, under Dr. Tae-Hoon Kim’s mentorship to study the roles of chromatin structure, enhancer function, and CTCF function in gene regulation. She joined Dr. Jian Xu’s lab in the Children’s Research Institute at UT Southwestern Medical Center in 2019 as a research scientist and developed a tool (LAMPS) to examine how phase separated condensates modulate transcription at the endogenous locus. Additionally, she studied the role of hematopoietic cell-specific enhancers in governing cell lineage. In 2023, she joined Sihan Wu’s lab to study ecDNA biology, focusing on the mitotic segregation mechanism of ecDNA. In addition, she also serves as the Manager of the next-gen sequencing core. Outside of work, she loves to cook and enjoy food. She also loves to workout, run, and do Pilates and Yoga.  
