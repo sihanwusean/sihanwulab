@@ -19,9 +19,10 @@
 
 * Circular ecDNA Promotes Accessible Chromatin and High Oncogene Expression. [Nature, 2019.](https://www.nature.com/articles/s41586-019-1763-5) [:link: PMC link](https://www.ncbi.nlm.nih.gov/labs/pmc/articles/PMC7094777/)
 * Extrachromosomal DNA Is Associated with Oncogene Amplification and Poor Outcome across Multiple Cancers. [Nature Genetics, 2020.](https://www.nature.com/articles/s41588-020-0678-2) [:link: PMC link](https://www.ncbi.nlm.nih.gov/labs/pmc/articles/PMC7484012/)
-* ecDNA Hubs Drive Cooperative Intermolecular Oncogene Expression. [Nature, 2021.](https://www.nature.com/articles/s41586-021-04116-8) [No free access yet]
+* ecDNA Hubs Drive Cooperative Intermolecular Oncogene Expression. [Nature, 2021.](https://www.nature.com/articles/s41586-021-04116-8) [:link: PMC link](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/34819668/)
 * Extrachromosomal DNA: An Emerging Hallmark in Human Cancer. [Annual Review of Pathology: Mechanisms of Disease, 2022.](https://www.annualreviews.org/doi/10.1146/annurev-pathmechdis-051821-114223) [:link: PMC link](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9125980/)
-* The Evolutionary Dynamics of Extrachromosomal DNA in Human Cancers. [Nature genetics, 2022.](https://www.nature.com/articles/s41588-022-01177-x)
+* The Evolutionary Dynamics of Extrachromosomal DNA in Human Cancers. [Nature genetics, 2022.](https://www.nature.com/articles/s41588-022-01177-x) [:link: PMC link](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/36123406/)
+* Extrachromosomal DNA in the cancerous transformation of Barrett’s oesophagus. [Nature, 2023](https://www.nature.com/articles/s41586-023-05937-5)
 
 <br />
 <br />
@@ -40,9 +41,10 @@ I am interested in and have an extensive background in cancer genetics and genom
 
 
 ### Yoon Jung Kim, Ph.D.
+#### Senior Research Scientist
 
 
-Yoon will join us as a research faculty on September 1st.
+Dr. Yoon Jung Kim obtained her Ph.D. from Korean Advanced Institute of Science and Technology (KAIST) in 2007, where she developed a pH shock method to enhance the production of antibiotic and anticancer agents by studying gene regulation in <em>Streptomyces sp.</em> She then started her postdoctoral research at the Yale School of Medicine in 2008, under Dr. Tae-Hoon Kim’s mentorship to study the roles of chromatin structure, enhancer function, and CTCF function in gene regulation. She joined Dr. Jian Xu’s lab in the Children’s Research Institute at UT Southwestern Medical Center in 2019 as a research scientist and developed a tool (LAMPS) to examine how phase separated condensates modulate transcription at the endogenous locus. Additionally, she studied the role of hematopoietic cell-specific enhancers in governing cell lineage. In 2023, she joined Sihan Wu’s lab to study ecDNA biology, focusing on the mitotic segregation mechanism of ecDNA. In addition, she also serves as the Manager of the next-gen sequencing core. Outside of work, she loves to cook and enjoy food. She also loves to workout, run, and do Pilates and Yoga.  
 
 
 ### Jun Yi Stanley Lim
@@ -94,11 +96,12 @@ Collin received his bachelor's degree in Biology from the University of Texas at
 
 
 ## Fundings
-| Title                                                  | Agency                                          | Period    |
-|:-------------------------------------------------------|:------------------------------------------------|----------:|
-| Moody Medical Research Institute Innovation Award      | Moody Medical Research Institute                | 2022-2024 |
-| Recruitment of First-Time Tenure-Track Faculty Members | Cancer Prevention & Research Institute of Texas | 2021-2026 |
-| Cancer Grand Challenges                                | Cancer Research UK & National Cancer Institute  | 2022-2027 |
+| Title                                                    | Agency                                          | Period    |
+|:---------------------------------------------------------|:------------------------------------------------|----------:|
+| Moody Medical Research Institute Innovation Award        | Moody Medical Research Institute                | 2022-2024 |
+| Gilead Sciences Research Scholoar Program in Solid Tumor | Gilead Sciences                                 | 2023-2025 |
+| Recruitment of First-Time Tenure-Track Faculty Members   | Cancer Prevention & Research Institute of Texas | 2021-2026 |
+| Cancer Grand Challenges                                  | Cancer Research UK & National Cancer Institute  | 2022-2027 |
 
 
 ## Shared resources
