@@ -54,13 +54,6 @@ Dr. Yoon Jung Kim obtained her Ph.D. from Korean Advanced Institute of Science a
 Stanley received his bachelor's degree in Life Sciences with a specialization in Molecular and Cell Biology from the National University of Singapore. Before joining CRI, he worked as a research assistant in Dr. David Virshup's lab at Duke-NUS Medical School, focusing on studying Wnt signaling regulated pathways in cancer. At CRI, he is a graduate student in the Wu lab. Outside of work, Stanley enjoys exploring new places and is proficient in the Japanese language.
 
 
-### Wenyue Liu 刘文跃, Ph.D.
-#### Postdoc | [ORCID](https://orcid.org/0000-0003-2197-7788), [Google Scholar](https://scholar.google.com/citations?user=kmOWmtoAAAAJ&hl=en), [LinkedIn](linkedin.com/in/wenyue-liu-a63a75218)
-
-
-Dr. Wenyue Liu obtained his Ph.D. from University of Science and Technology of China (USTC) in 2021, where he focused on studying the molecular mechanisms of microtubule nucleation from non-centrosomal microtubule organizing centers. Fascinated by the amazing role of extrachromosomal DNA (ecDNA) in cancer, Dr. Liu joined the Wu lab as a postdoctoral researcher at UT Southwestern in 2021. Here, he is trying to deepen the understanding of the molecular function and basis of ecDNA in cancer.
-
-
 ### Kailiang Qiao 乔锴亮, Ph.D.
 #### Postdoc | [ORCID](https://orcid.org/0000-0002-6097-0338)
 
