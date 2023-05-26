@@ -17,12 +17,13 @@
 
 ## Representative publications
 
-* Circular ecDNA Promotes Accessible Chromatin and High Oncogene Expression. [Nature, 2019.](https://www.nature.com/articles/s41586-019-1763-5) [:link: PMC link](https://www.ncbi.nlm.nih.gov/labs/pmc/articles/PMC7094777/)
-* Extrachromosomal DNA Is Associated with Oncogene Amplification and Poor Outcome across Multiple Cancers. [Nature Genetics, 2020.](https://www.nature.com/articles/s41588-020-0678-2) [:link: PMC link](https://www.ncbi.nlm.nih.gov/labs/pmc/articles/PMC7484012/)
-* ecDNA Hubs Drive Cooperative Intermolecular Oncogene Expression. [Nature, 2021.](https://www.nature.com/articles/s41586-021-04116-8) [:link: PMC link](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/34819668/)
-* Extrachromosomal DNA: An Emerging Hallmark in Human Cancer. [Annual Review of Pathology: Mechanisms of Disease, 2022.](https://www.annualreviews.org/doi/10.1146/annurev-pathmechdis-051821-114223) [:link: PMC link](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9125980/)
-* The Evolutionary Dynamics of Extrachromosomal DNA in Human Cancers. [Nature genetics, 2022.](https://www.nature.com/articles/s41588-022-01177-x) [:link: PMC link](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/36123406/)
 * Extrachromosomal DNA in the cancerous transformation of Barrett’s oesophagus. [Nature, 2023](https://www.nature.com/articles/s41586-023-05937-5)
+* The Evolutionary Dynamics of Extrachromosomal DNA in Human Cancers. [Nature genetics, 2022.](https://www.nature.com/articles/s41588-022-01177-x) [:link: PMC link](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/36123406/)
+* Extrachromosomal DNA: An Emerging Hallmark in Human Cancer. [Annual Review of Pathology: Mechanisms of Disease, 2022.](https://www.annualreviews.org/doi/10.1146/annurev-pathmechdis-051821-114223) [:link: PMC link](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9125980/)
+* ecDNA Hubs Drive Cooperative Intermolecular Oncogene Expression. [Nature, 2021.](https://www.nature.com/articles/s41586-021-04116-8) [:link: PMC link](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/34819668/)
+* Extrachromosomal DNA Is Associated with Oncogene Amplification and Poor Outcome across Multiple Cancers. [Nature Genetics, 2020.](https://www.nature.com/articles/s41588-020-0678-2) [:link: PMC link](https://www.ncbi.nlm.nih.gov/labs/pmc/articles/PMC7484012/)
+* Circular ecDNA Promotes Accessible Chromatin and High Oncogene Expression. [Nature, 2019.](https://www.nature.com/articles/s41586-019-1763-5) [:link: PMC link](https://www.ncbi.nlm.nih.gov/labs/pmc/articles/PMC7094777/)
+
 
 <br />
 <br />
@@ -52,6 +53,13 @@ Dr. Yoon Jung Kim obtained her Ph.D. from Korean Advanced Institute of Science a
 
 
 Stanley received his bachelor's degree in Life Sciences with a specialization in Molecular and Cell Biology from the National University of Singapore. Before joining CRI, he worked as a research assistant in Dr. David Virshup's lab at Duke-NUS Medical School, focusing on studying Wnt signaling regulated pathways in cancer. At CRI, he is a graduate student in the Wu lab. Outside of work, Stanley enjoys exploring new places and is proficient in the Japanese language.
+
+
+### Yipeng Xie 谢依朋
+#### Grad student | [ORCID](https://orcid.org/0000-0002-7454-126X)
+
+
+Yipeng got his bachelor’s degree in Biological Sciences from Wuhan University (WHU), China. He has a broad interest in transcription regulation. Before he started his Ph.D. training, he worked as an undergrad research assistant with Dr.Yi Liu at UTSW, focusing on codon usage bias. He joined the Wu lab in 2023 as a graduate student, where he studies the mechanisms of ecDNA segregation and how it may be targeted for cancer therapy. Outside of work, he enjoys traveling around different countries and watching suspense movies. 
 
 
 ### Kailiang Qiao 乔锴亮, Ph.D.
