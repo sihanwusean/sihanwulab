@@ -17,7 +17,8 @@
 
 ## Representative publications
 
-* Extrachromosomal DNA in the cancerous transformation of Barrett’s oesophagus. [Nature, 2023](https://www.nature.com/articles/s41586-023-05937-5)
+* Acquired Cross-resistance in Small Cell Lung Cancer due to Extrachromosomal DNA Amplification of MYC paralogs. [Cancer discovery, 2024.](https://aacrjournals.org/cancerdiscovery/article/doi/10.1158/2159-8290.CD-23-0656/734805/Acquired-Cross-resistance-in-Small-Cell-Lung) [:link: PMC link](https://pubmed.ncbi.nlm.nih.gov/38386926/)
+* Extrachromosomal DNA in the cancerous transformation of Barrett’s oesophagus. [Nature, 2023.](https://www.nature.com/articles/s41586-023-05937-5) [:link: PMC link](https://pubmed.ncbi.nlm.nih.gov/37046089/)
 * The Evolutionary Dynamics of Extrachromosomal DNA in Human Cancers. [Nature genetics, 2022.](https://www.nature.com/articles/s41588-022-01177-x) [:link: PMC link](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/36123406/)
 * Extrachromosomal DNA: An Emerging Hallmark in Human Cancer. [Annual Review of Pathology: Mechanisms of Disease, 2022.](https://www.annualreviews.org/doi/10.1146/annurev-pathmechdis-051821-114223) [:link: PMC link](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9125980/)
 * ecDNA Hubs Drive Cooperative Intermolecular Oncogene Expression. [Nature, 2021.](https://www.nature.com/articles/s41586-021-04116-8) [:link: PMC link](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/34819668/)
@@ -84,7 +85,7 @@ Dr. Qing-Lin Yang obtained his Ph.D. degree from the Center for Excellence in Mo
 
 
 ### Collin Gilbreath
-#### Research Assistant II / Lab Manager | [ORCID](https://orcid.org/0000-0002-8683-983X)
+#### Research Associate / Lab Manager | [ORCID](https://orcid.org/0000-0002-8683-983X)
 
 Collin received his bachelor's degree in Biology from the University of Texas at Dallas. Before joining CRI, he worked as a research technician for three years in Dr. Ganesh Raj’s lab at UT Southwestern studying the DNA damage repair pathway in prostate cancer and its therapeutic targets. At CRI, he is a research assistant and lab manager for the Wu lab. Outside of work, he enjoys going to concerts, traveling, and trying different restaurants.
 
