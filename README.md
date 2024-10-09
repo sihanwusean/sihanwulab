@@ -98,12 +98,17 @@ Collin received his bachelor's degree in Biology from the University of Texas at
 
 
 ## Fundings
+### Ongoing
 | Title                                                    | Agency                                          | Period    |
 |:---------------------------------------------------------|:------------------------------------------------|----------:|
-| Moody Medical Research Institute Innovation Award        | Moody Medical Research Institute                | 2022-2024 |
+| Catalyst Award                                           | American Cancer Society                         | 2025-2025 |
 | Gilead Sciences Research Scholoar Program in Solid Tumor | Gilead Sciences                                 | 2023-2025 |
 | Recruitment of First-Time Tenure-Track Faculty Members   | Cancer Prevention & Research Institute of Texas | 2021-2026 |
 | Cancer Grand Challenges                                  | Cancer Research UK & National Cancer Institute  | 2022-2027 |
+### Past
+| Title                                                    | Agency                                          | Period    |
+|:---------------------------------------------------------|:------------------------------------------------|----------:|
+| Moody Medical Research Institute Innovation Award        | Moody Medical Research Institute                | 2022-2024 |
 
 
 ## Shared resources
